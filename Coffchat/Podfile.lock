@@ -1,8 +1,7 @@
 PODS:
   - Alamofire (5.6.1)
   - BEMCheckBox (1.4.1)
-  - Chrysan (2.0.6):
-    - SnapKit (~> 5.0)
+  - Chrysan (1.5.4)
   - CocoaAsyncSocket (7.6.5)
   - CryptoSwift (1.5.1)
   - Dollar (9.0.0)
@@ -19,7 +18,7 @@ PODS:
 DEPENDENCIES:
   - Alamofire (~> 5.2)
   - BEMCheckBox
-  - Chrysan
+  - Chrysan (~> 1.5.4)
   - CocoaAsyncSocket (~> 7.6.3)
   - CryptoSwift
   - Dollar (= 9.0.0)
@@ -47,7 +46,7 @@ SPEC REPOS:
 SPEC CHECKSUMS:
   Alamofire: 87bd8c952f9a4454320fce00d9cc3de57bcadaf5
   BEMCheckBox: 5ba6e37ade3d3657b36caecc35c8b75c6c2b1a4e
-  Chrysan: 47a607a2e290d556eb8267265490f39f06c1a52a
+  Chrysan: 01c5df91a706b5785e2c0d594c0de16bb2ada034
   CocoaAsyncSocket: 065fd1e645c7abab64f7a6a2007a48038fdc6a99
   CryptoSwift: c4f2debceb38bf44c80659afe009f71e23e4a082
   Dollar: 2fc9bdeeb2d3ae1f251461803240d5c93829ee0c
@@ -58,6 +57,6 @@ SPEC CHECKSUMS:
   SwiftProtobuf: 6ef3f0e422ef90d6605ca20b21a94f6c1324d6b3
   SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
 
-PODFILE CHECKSUM: 2a6ffa1a4f2370df1cdcd02d6a5b9061bdc045ad
+PODFILE CHECKSUM: 1cdbd9c705d83d570b43ebdc9689f168a729e6d6
 
 COCOAPODS: 1.11.3
